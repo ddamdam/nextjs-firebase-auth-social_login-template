@@ -2,6 +2,10 @@
 
 This project is built using [Next.js](https://nextjs.org), integrated with Firebase Authentication, Google Social Login, and a custom dashboard template.
 
+![dashboard](https://github.com/user-attachments/assets/e2f7401b-2b62-45be-aee9-335cf56c3538)
+![loginpage](https://github.com/user-attachments/assets/df377ee1-9153-4c2f-a384-245ba12f7078)
+![register_page](https://github.com/user-attachments/assets/a31f34ff-5d00-4718-b3c3-02519a105cab)
+
 ## Features
 
 - Next.js 13+ with App Router
