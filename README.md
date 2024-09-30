@@ -18,6 +18,7 @@ This project is built using [Next.js](https://nextjs.org), integrated with Fireb
 First, set up your Firebase project and obtain the necessary configuration. Then, clone this repository and install the dependencies:
 
 cd your-repository
+
 npm install
 
 ## Configure Firebase
